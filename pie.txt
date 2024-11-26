@@ -1,0 +1,23 @@
+# Grade Checker
+# Write a program that takes a student's score (0-100) as input and prints the grade based on specific ranges.
+
+# Number Guessing Game
+# Create a number guessing game where the program randomly selects a number between 1 and 20. The user must guess the number with unlimited attempts.
+
+# Multiplication Table
+# Write a program to generate and display the multiplication table of a number entered by the user.
+
+# Prime Numbers
+# Write a program that prints all prime numbers between 1 and 50.
+
+# Password Authentication
+# Write a program where the user has three attempts to guess the correct password.
+
+# Fibonacci Series
+# Write a program to print the Fibonacci series up to a given number n.
+
+# Counting Vowels
+# Write a program that counts the number of vowels in a sentence entered by the user.
+
+# Odd and Even Counter
+# Write a program that counts how many odd and even numbers are in a list.
